@@ -4,7 +4,7 @@
 
 ### Hi there, I'm DuckTapeDevOps!
 
-![duckta12Bang](../media/png/duckta12Bang.png)
+![duckta12Bang](../img/ducks/duckta12Bang.png)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NonpareilNic?cardType=level&theme=dark&preferLogin=false&Ring=FFF430&Text=FFF430&Border=FFF430)](https://git.io/awesome-stats-card)
 
